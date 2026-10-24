@@ -1,0 +1,19 @@
+-- =============================================================================
+-- The Flower Hub Database: Teardown Script
+-- Drops all dependent tables and constraints cleanly
+-- =============================================================================
+
+DROP TABLE Payments CASCADE CONSTRAINTS PURGE;
+DROP TABLE Reviews CASCADE CONSTRAINTS PURGE;
+DROP TABLE OrderDetails CASCADE CONSTRAINTS PURGE;
+DROP TABLE Orders CASCADE CONSTRAINTS PURGE;
+DROP TABLE InventoryLogs CASCADE CONSTRAINTS PURGE;
+DROP TABLE ProductExtras CASCADE CONSTRAINTS PURGE;
+DROP TABLE Products CASCADE CONSTRAINTS PURGE;
+DROP TABLE OpeningHours CASCADE CONSTRAINTS PURGE;
+DROP TABLE Shops CASCADE CONSTRAINTS PURGE;
+DROP TABLE Categories CASCADE CONSTRAINTS PURGE;
+DROP TABLE Coupons CASCADE CONSTRAINTS PURGE;
+DROP TABLE UserAddresses CASCADE CONSTRAINTS PURGE;
+DROP TABLE Users CASCADE CONSTRAINTS PURGE;
+DROP TABLE Roles CASCADE CONSTRAINTS PURGE;
