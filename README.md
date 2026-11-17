@@ -14,8 +14,6 @@
 * **Ders:** Veritabanı Yönetim Sistemleri (DBMS)
 * **Dönem:** 2025–2026 Bahar Dönemi
 * **Danışman:** Arş. Gör. N. Güliz Çakır
-* **Proje Tasarım Raporu:** Projeye ait tüm kavramsal tasarım, normalizasyon ve sorgu analizlerini içeren resmi rapora [DBMS_Project.pdf](https://github.com/user-attachments/files/34202863/DBMS_Project.pdf)
- dosyasından ulaşabilirsiniz.
 
 ---
 
