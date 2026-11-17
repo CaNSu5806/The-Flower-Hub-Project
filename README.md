@@ -23,11 +23,11 @@ Proje yaşam döngüsünün her aşaması ekip üyeleri arasında modüler olara
 
 | Ekip Üyesi | Öğrenci No | Üstlendiği Temel Görevler & Modüller |
 | :--- | :--- | :--- |
-| **Cansu Çoşkun** | 2311504270 | Ürün kataloğu (`Products`), ek ürün/özelleştirme seçenekleri (`ProductExtras`) ve stok denetim defteri (`InventoryLogs`) DDL/DML yapıları; satır seviyesinde kilitli stok kontrolü ve anlık delta loglama tetikleyicileri (`trg_process_order_stock`, `trg_track_inventory_changes`); 3NF normalizasyon süreci, ER modelleme ve analitik iş sorguları. |
-| **Esma Arıcı** | 2311504259 | Sistem iş senaryosunun kurgulanması; sipariş motoru (`Orders`) ve satır bazlı sipariş detayları (`OrderDetails`) tabloları; sipariş oluşturma ve detaylandırma adımlarını tek bir transaction altında güvenceye alan `processcheckout` saklı yordamı (PL/SQL Stored Procedure); ER modelleme ve 3NF analizi. |
-| **Zeynep Özbudak** | 2311504225 | Promosyon/kupon motoru (`Coupons`), ödeme altyapısı (`Payments`) ve müşteri değerlendirme sistemi (`Reviews`) DDL kısıtları ve mock veri üretimi; ER diyagramı kurgusu, normalizasyon adımları ve ilgili analitik SQL sorguları. |
+| **Cansu Çoşkun** | 23******** | Ürün kataloğu (`Products`), ek ürün/özelleştirme seçenekleri (`ProductExtras`) ve stok denetim defteri (`InventoryLogs`) DDL/DML yapıları; satır seviyesinde kilitli stok kontrolü ve anlık delta loglama tetikleyicileri (`trg_process_order_stock`, `trg_track_inventory_changes`); 3NF normalizasyon süreci, ER modelleme ve analitik iş sorguları. |
+| **Esma Arıcı** | 23******** | Sistem iş senaryosunun kurgulanması; sipariş motoru (`Orders`) ve satır bazlı sipariş detayları (`OrderDetails`) tabloları; sipariş oluşturma ve detaylandırma adımlarını tek bir transaction altında güvenceye alan `processcheckout` saklı yordamı (PL/SQL Stored Procedure); ER modelleme ve 3NF analizi. |
+| **Zeynep Özbudak** | 23********| Promosyon/kupon motoru (`Coupons`), ödeme altyapısı (`Payments`) ve müşteri değerlendirme sistemi (`Reviews`) DDL kısıtları ve mock veri üretimi; ER diyagramı kurgusu, normalizasyon adımları ve ilgili analitik SQL sorguları. |
 | **Leen Mahmoud M. Subh** | 2311504309 | Çok satıcılı mağaza profilleri (`Shops`), mağaza haftalık çalışma takvimi (`OpeningHours`) ve kategori taksonomisi (`Categories`) DDL/DML mimarisi; satıcı-mağaza ilişkilendirmeleri, ER tasarımı ve SQL analitiği. |
-| **Mustafa Can** | 2211504074 | Rol Tabanlı Erişim Kontrolü (RBAC) yetkilendirme modeli (`Roles`, `Users`); çoklu teslimat adres yönetimi (`UserAddresses`) DDL/DML tabloları; senaryo kurgusu ve kullanıcı-rol ilişkileri mimarisi. |
+| **Mustafa Can** | 22******** | Rol Tabanlı Erişim Kontrolü (RBAC) yetkilendirme modeli (`Roles`, `Users`); çoklu teslimat adres yönetimi (`UserAddresses`) DDL/DML tabloları; senaryo kurgusu ve kullanıcı-rol ilişkileri mimarisi. |
 
 ---
 
